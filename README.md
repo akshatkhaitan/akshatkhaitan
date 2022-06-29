@@ -12,6 +12,7 @@ I am passionate about IT and looking forward to exploring it more. I am efficien
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatkhaitan&repo=Amazon-clone&show_owner=true&theme=radical)](https://github.com/akshatkhaitan/Amazon-clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatkhaitan&repo=ParkAway&show_owner=true&theme=radical)](https://github.com/akshatkhaitan/ParkAway)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatkhaitan&repo=OOPS-Programs&show_owner=true&theme=radical)](https://github.com/akshatkhaitan/OOPS-Programs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatkhaitan&repo=dataviz&show_owner=true&theme=radical)](https://github.com/akshatkhaitan/dataviz)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akshatkhaitan&repo=E-Cell-Website-2021-22&show_owner=true&theme=radical)](https://github.com/akshatkhaitan/E-Cell-Website-2021-22)
 
 ### Languages
